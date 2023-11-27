@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\hira\üçyazılı\üçyazılı\obj\Debug\üçyazılı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\hira\üçyazılı\üçyazılı\obj\Debug\üçyazılı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\hira\üçyazılı\üçyazılı\obj\Debug\üçyazılı.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\hira\üçyazılı\üçyazılı\obj\Debug\üçyazılı.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\hira\üçyazılı\üçyazılı\obj\Debug\üçyazılı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\hira\üçyazılı\üçyazılı\obj\Debug\üçyazılı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\hira\üçyazılı\üçyazılı\bin\Debug\üçyazılı.exe.config
+C:\Users\User\Desktop\KORUMASIZ\hira\üçyazılı\üçyazılı\bin\Debug\üçyazılı.exe
+C:\Users\User\Desktop\KORUMASIZ\hira\üçyazılı\üçyazılı\bin\Debug\üçyazılı.pdb
+C:\Users\User\Desktop\KORUMASIZ\hira\üçyazılı\üçyazılı\obj\Debug\üçyazılı.exe
+C:\Users\User\Desktop\KORUMASIZ\hira\üçyazılı\üçyazılı\obj\Debug\üçyazılı.pdb
